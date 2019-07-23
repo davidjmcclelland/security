@@ -144,7 +144,6 @@ typings/
 .dynamodb/
 
 .gitignore
-injection/
 security.iml
 security.ipr
 security.iws
